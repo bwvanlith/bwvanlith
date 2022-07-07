@@ -1,16 +1,15 @@
-### Hi there 👋
+Welcome!
 
-<!--
-**bwvanlith/bwvanlith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My repo's consist of:
+      - Scripts for automated content production in Maya (MEL or Python)
+      - Scripts for Unreal Engine to automate tasks. (Python)
+      - Personal computer vision projects, based on hand and head tracking.
 
-Here are some ideas to get you started:
+Please not that most is work in progress and some code needs to be changed for your own use.
+Just drop me a line if you need any help.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'll add documentation at a later point (Q3 2022) and if time permits even some GUI's.
+
+Cheers,
+
+Bart
